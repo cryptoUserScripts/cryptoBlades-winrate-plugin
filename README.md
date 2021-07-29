@@ -4,7 +4,7 @@
 	 - [Firefox](https://addons.mozilla.org/es/firefox/addon/tampermonkey/)
 	 - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=es)
 	 
- -  #2#  Copy the script  [cryptoblades-winrate-plugin.js](https://github.com/cryptoUserScripts/cryptoBlades-winrate-plugin/blob/main/cryptoblades-winrate-plugin.js)
+ -  #2#  Copy the script  [cryptoblades-winrate-plugin.js](https://raw.githubusercontent.com/cryptoUserScripts/cryptoBlades-winrate-plugin/main/cryptoblades-winrate-plugin.js)
  
  - #3#  Go to the tampermonkey plugin dashboard, add new script and paste the cryptoblades-winrate-plugin.js content , press **CTRL + S** to save.
 [![Captura1.png](https://i.postimg.cc/1tbhBV1P/Captura1.png)](https://postimg.cc/r0GPFmpY)
