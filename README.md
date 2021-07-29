@@ -1,9 +1,6 @@
 # How to install
-
-
+See tutorial on youtube: https://www.youtube.com/watch?v=iNkisqsd7rw
 [![Alt text](https://img.youtube.com/vi/iNkisqsd7rw/0.jpg)](https://www.youtube.com/watch?v=iNkisqsd7rw)
-
-https://www.youtube.com/watch?v=iNkisqsd7rw
 
 
 
