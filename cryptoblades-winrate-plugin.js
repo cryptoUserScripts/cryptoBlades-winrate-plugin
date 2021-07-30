@@ -2,7 +2,7 @@
 // @name           CryptoBlades Win Rate calculator
 // @description    Calculate fight win rate
 // @include       https://app.cryptoblades.io/*
-// @version        0.5
+// @version        2
 // @grant	   GM_log
 // @grant	   GM_addStyle
 // @run-at document-end
