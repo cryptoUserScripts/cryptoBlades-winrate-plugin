@@ -1,5 +1,5 @@
 # How to install
-See tutorial on youtube: https://www.youtube.com/watch?v=9UpwkD-Z4sM
+See tutorial on youtube: https://www.youtube.com/watch?v=iNkisqsd7rw
 
 
  - #1#  Install tampermonkey plugin:
@@ -21,4 +21,4 @@ See tutorial on youtube: https://www.youtube.com/watch?v=9UpwkD-Z4sM
 
 
 
-[![Alt text](https://img.youtube.com/vi/9UpwkD-Z4sM/0.jpg)](https://www.youtube.com/watch?v=9UpwkD-Z4sM)
+[![Alt text](https://img.youtube.com/vi/iNkisqsd7rw/0.jpg)](https://www.youtube.com/watch?v=iNkisqsd7rw)
