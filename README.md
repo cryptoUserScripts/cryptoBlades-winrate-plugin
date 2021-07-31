@@ -18,7 +18,13 @@ See tutorial on youtube: https://www.youtube.com/watch?v=iNkisqsd7rw
 	 - 0xBaCB865b3201d02f142f7858112cC04a3573E606
 
 
-
-
-
 [![Alt text](https://img.youtube.com/vi/iNkisqsd7rw/0.jpg)](https://www.youtube.com/watch?v=iNkisqsd7rw)
+
+
+# Roadmap
+
+ - **Calculate win rate on change character** 
+ - **Show message when next level of character reward is available**
+ - Reward calculator  ([Combat Rewards](https://cryptoblades.gitbook.io/wiki/combat/fighting/combat-rewards))
+ - Calculate win rate vs Raid
+ - App in Google Play Store  for multi tracking account and notifications
